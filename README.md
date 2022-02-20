@@ -1,13 +1,10 @@
 # Amazon_Vine_Analysis
 
 ## Overview of the analysis: 
-* Explain the purpose of this analysis.
+
 The purpose of this analysis is to provide Big Market insight on review data by comparing reviews of competitors through translating & identifying trends. 
 
 ## Results: 
-Using bulleted lists and images of DataFrames as support, address the following questions:
-
-* How many Vine reviews and non-Vine reviews were there?
 
 Total Vine reviews: 
 
@@ -17,8 +14,6 @@ Total non-Vine reviews:
 
 <img width="575" alt="Screen Shot 2022-02-19 at 7 24 17 PM" src="https://user-images.githubusercontent.com/91990957/154823651-6926b332-00b5-4960-9991-dc56c564581f.png">
 
-* How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-
 Total 5-star vine reviews:
 
 <img width="575" alt="Screen Shot 2022-02-19 at 7 25 34 PM" src="https://user-images.githubusercontent.com/91990957/154823669-2d03315b-368b-42e0-91ba-847cad9f81dd.png">
@@ -26,8 +21,6 @@ Total 5-star vine reviews:
 Total 5-star non-vine reviews:
 
 <img width="524" alt="Screen Shot 2022-02-19 at 7 26 18 PM" src="https://user-images.githubusercontent.com/91990957/154823687-91cbeb20-ff45-4d35-8627-6e04795d1b91.png">
-
-* What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 Percentage of 5-star vine reviews & non-vine reviews:
 
